@@ -5,7 +5,7 @@ public class HelloWorld {
 
 	   public String getName() 
 	   {
-	      return name
+	      return name;
 	   }
 
 	   public String getMessage() 
